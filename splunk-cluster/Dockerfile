@@ -1,4 +1,4 @@
-FROM splunk:latest
+FROM splunk/splunk:latest
 
 MAINTAINER Denis Gladkikh <docker-splunk-cluster@denis.gladkikh.email>
 
